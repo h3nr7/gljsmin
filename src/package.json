@@ -1,0 +1,22 @@
+{
+  "author": "monkiki & co",
+  "name": "gljsmin",
+  "description": "convert file to js string",
+  "version": "0.1.2",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/gljsmin",
+  "keywords": [
+    "webgl",
+    "compressor",
+    "minifier"
+  ],
+  "bin": {
+    "gl-js-minifier": "./bin/gljsmin"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
